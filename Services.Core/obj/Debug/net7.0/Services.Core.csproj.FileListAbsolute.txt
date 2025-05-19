@@ -1,0 +1,11 @@
+C:\Users\Stevens\source\repos\Prueba_Tecnica_AportesEnLinea\Services.Core\bin\Debug\net7.0\Services.Core.deps.json
+C:\Users\Stevens\source\repos\Prueba_Tecnica_AportesEnLinea\Services.Core\bin\Debug\net7.0\Services.Core.dll
+C:\Users\Stevens\source\repos\Prueba_Tecnica_AportesEnLinea\Services.Core\bin\Debug\net7.0\Services.Core.pdb
+C:\Users\Stevens\source\repos\Prueba_Tecnica_AportesEnLinea\Services.Core\obj\Debug\net7.0\Services.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stevens\source\repos\Prueba_Tecnica_AportesEnLinea\Services.Core\obj\Debug\net7.0\Services.Core.AssemblyInfoInputs.cache
+C:\Users\Stevens\source\repos\Prueba_Tecnica_AportesEnLinea\Services.Core\obj\Debug\net7.0\Services.Core.AssemblyInfo.cs
+C:\Users\Stevens\source\repos\Prueba_Tecnica_AportesEnLinea\Services.Core\obj\Debug\net7.0\Services.Core.csproj.CoreCompileInputs.cache
+C:\Users\Stevens\source\repos\Prueba_Tecnica_AportesEnLinea\Services.Core\obj\Debug\net7.0\Services.Core.dll
+C:\Users\Stevens\source\repos\Prueba_Tecnica_AportesEnLinea\Services.Core\obj\Debug\net7.0\refint\Services.Core.dll
+C:\Users\Stevens\source\repos\Prueba_Tecnica_AportesEnLinea\Services.Core\obj\Debug\net7.0\Services.Core.pdb
+C:\Users\Stevens\source\repos\Prueba_Tecnica_AportesEnLinea\Services.Core\obj\Debug\net7.0\ref\Services.Core.dll
